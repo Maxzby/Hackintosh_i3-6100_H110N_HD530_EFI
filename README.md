@@ -75,3 +75,4 @@ B250系主板一般配7代 intel cpu，如 i5-7500，核显型号为 HD 630。Gi
 
  ❌ DVI接口无法使用，在登录界面黑屏
 "# Hackintosh_i3-6100_H110N_HD530_EFI" 
+"# Hackintosh_i3-6100_H110N_HD530_EFI" 
