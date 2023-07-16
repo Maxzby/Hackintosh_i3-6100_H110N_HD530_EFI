@@ -14,7 +14,7 @@
 | 音频 | 瑞昱Realtek ALC662 |
 | 系统 | **macOS Big Sur11.7 (20G817)** |
 
-这个项目基于**[Hackintosh_i5-6500_B250M_HD530_EFI](https://github.com/wonpn/Hackintosh_i5-6500_B250M_HD530_EFI)**修改变成[**Maxzby/Hackintosh_i3-6100_B150M_HD530_EFI** ](https://github.com/Maxzby/Hackintosh_i3-6100_B150M_HD530_EFI)基于以上再次修改成**Hackintosh_i3-6100_H110N_HD530_EFI******
+这个项目基于**[Hackintosh_i5-6500_B250M_HD530_EFI](https://github.com/wonpn/Hackintosh_i5-6500_B250M_HD530_EFI)**修改变成[**Maxzby/Hackintosh_i3-6100_B150M_HD530_EFI** ](https://github.com/Maxzby/Hackintosh_i3-6100_B150M_HD530_EFI)基于以上再次修改成**Hackintosh_i3-6100_H110N_HD530_EFI**
 
 
 
@@ -26,9 +26,9 @@
 
 更新OpenCore版本为 0.9.3 [Github链接](https://github.com/acidanthera/OpenCorePkg)
 
-# 驱动列表
+# Kernel列表
 
-
+[![pCI3BSH.png](https://s1.ax1x.com/2023/07/16/pCI3BSH.png)](https://imgse.com/i/pCI3BSH)
 
 # 核显驱动（以下为原作者编写内容）
 
@@ -73,6 +73,8 @@ B250系主板一般配7代 intel cpu，如 i5-7500，核显型号为 HD 630。Gi
 
  ❔ 睡眠唤醒 （短期睡眠正常可以唤醒，长期睡眠睡死）
 
+[![pCI3NTK.png](https://s1.ax1x.com/2023/07/16/pCI3NTK.png)](https://imgse.com/i/pCI3NTK)
+
 ## 存在的问题
 
  ❌ VedioProc 显示不支持硬件解码，剪辑软件很卡。（Chrome 播放 4K 视频、本地 4K 视频播放正常）
@@ -80,6 +82,3 @@ B250系主板一般配7代 intel cpu，如 i5-7500，核显型号为 HD 630。Gi
  ❌ Chrome 播放4K高码率视频回卡屏，系统假死。关闭 chrome 的“硬件加速”选项可以解决该问题。
 
  ❌ DVI接口无法使用，在登录界面黑屏
-"# Hackintosh_i3-6100_H110N_HD530_EFI" 
-"# Hackintosh_i3-6100_H110N_HD530_EFI" 
-"# Hackintosh_i3-6100_H110N_HD530_EFI" 
